@@ -124,6 +124,10 @@ body{
 
     letter-spacing:5px;
 
+    text-shadow:
+    0 0 15px rgba(180,255,180,.4),
+    0 0 30px rgba(180,255,180,.2);
+
 }
 
 /* Date */
